@@ -42,7 +42,7 @@ Nota. Para sistema operativo MAC que requiere usar una maquina virtual, ya que P
 
 ## Wiki 📖
 
-Puedes visualizar este proyecto desde nuestro perfil en  
+Puedes visualizar este proyecto desde nuestro perfil https://app.powerbi.com/groups/me/reports/e933cc0a-2d2d-4337-a16f-f15a45a4d234/96aac605304741c06756?experience=power-bi
 
 ## Autores ✒️
 
