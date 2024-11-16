@@ -55,11 +55,11 @@ Si tienes algún problema o sugerencia, por favor no dudes en escribirnos.
 
 Jacqueline Yusty Espinosa 
 www.linkedin.com/in/jacquelineyusti
-jackeline_yusti@yahoo.com
+   jackeline_yusti@yahoo.com
 
 Andrea Gonzalez
 www.linkedin.com/in/maria-andrea-gonzalezg
-mariaandreagg@gmail.com
+  mariaandreagg@gmail.com
 
 
 
